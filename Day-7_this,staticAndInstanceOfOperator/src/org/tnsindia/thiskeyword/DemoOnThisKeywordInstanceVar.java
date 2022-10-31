@@ -21,7 +21,8 @@ public class DemoOnThisKeywordInstanceVar {
 	}
 
 
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 		A a= new A();
 		a.accept("Namrata", 121);
 		a.print();
