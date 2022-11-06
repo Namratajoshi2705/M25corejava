@@ -1,4 +1,4 @@
-package org.tnsindia.finalkeyword;
+package com.org.tns.india.FinalKeyword;
 
 public class ChildFinalClassDemo 
 {
